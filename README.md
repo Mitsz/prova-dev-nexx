@@ -1,5 +1,5 @@
 # Prova para o Desenvolvimento Nexxera
-Este repositório tem como intuito o desenvolvimento de um programa que realize a leitura de um XLSX e o converta em um CSV. Além disso, algumas regras devem ser levadas em consideração. São elas:]
+Este repositório tem como intuito o desenvolvimento de um programa que realize a leitura de um XLSX e o converta em um CSV. Além disso, algumas regras devem ser levadas em consideração. São elas:
 
 1 - A Coluna B "Numero Incricao Empresa" deve ser inserido no CSV sem formatação.
 
